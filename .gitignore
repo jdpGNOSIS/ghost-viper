@@ -1,0 +1,36 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.bak
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Env
+.env
+
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Large binaries
+*.gguf
+*.bin
+*.pt
+*.pth
+*.onnx
